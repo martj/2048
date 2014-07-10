@@ -1,0 +1,23 @@
+GameLogic
+1. Sum lines and cols
+2. Add new digit
+3. 
+
+
+
+Grid
+1. save old action
+2. Save new action (after press key)
+
+
+
+KeyAction
+1. New game - clear all col and row , stast game with two digits
+2. save game - in txt file
+3. Load game - in txt file
+4. Press Q - exit
+5. Press L - left
+6. Press R - rigth
+7. Press U - up
+8. Press D - down
+
